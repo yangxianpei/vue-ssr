@@ -1,0 +1,16 @@
+{
+  "name": "vue-ssr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-router": "^8.0.8",
+    "koa-static": "^5.0.0",
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.6",
+    "vue-server-renderer": "^2.6.11",
+    "vue-template-compiler": "^2.6.11",
+    "vuex": "^3.1.2"
+  }
+}
